@@ -100,36 +100,7 @@ Gemini AI 分析並顯示風險卡片
 
 三組測試情境
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-情境病人端輸入醫師端處方藥物預期風險等級重點1 高風險我長期服用 Warfarin 5mg，膝蓋扭傷想吃 IbuprofenIbuprofen 400mg tid高風險歷史警示自動跳出2 中風險我吃 Losartan，想吃含 Pseudoephedrine 的感冒藥Pseudoephedrine 60mg tid中風險即時分析建議3 低風險我吃 Metformin，醫師開 AmoxicillinAmoxicillin 500mg tid低風險綠色安全卡片
+情境  病人端輸入 醫師端處方藥物 預期風險等級 重點
+1 高風險 我長期服用 Warfarin 5mg，膝蓋扭傷想吃 Ibuprofen  Ibuprofen 400mg tid            高風險 歷史警示自動跳出
+2 中風險 我吃 Losartan，想吃含 Pseudoephedrine 的感冒藥   Pseudoephedrine 60mg tid         中風險 即時分析建議
+3 低風險 我吃 Metformin，醫師開 Amoxicillin    Amoxicillin 500mg tid                      低風險 綠色安全卡片
