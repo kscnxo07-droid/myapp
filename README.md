@@ -44,9 +44,13 @@ drug-interaction-app/
 └── .gitignore
 
 技術堆疊
-
-類別技術前端Vue 3 + Vite + Bootstrap 5
-後端Node.js + Express + AxiosAI 引擎Google Gemini 2.5 Flash資料標準HL7 FHIR R4（HAPI FHIR Server）其他Cors, Dotenv, Nodemon
+類別技術
+前端Vue 3 + Vite + Bootstrap 5
+後端Node.js + Express + AxiosAI
+引擎Google Gemini 1.5 Flash
+資料標準HL7 FHIR R4（HAPI FHIR Server）
+臨床決策支援CDS Hooks（醫師端警示卡片標準）
+其他Cors, Dotenv, Nodemon
 
 重要提醒：環境設定
 ⚠️ 必須自行建立 .env 檔案
